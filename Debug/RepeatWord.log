@@ -1,0 +1,3 @@
+﻿  Repeat.cpp
+C:\Users\cepha\source\repos\RepeatWord\Repeat.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+  RepeatWord.vcxproj -> C:\Users\cepha\source\repos\RepeatWord\Debug\RepeatWord.exe
